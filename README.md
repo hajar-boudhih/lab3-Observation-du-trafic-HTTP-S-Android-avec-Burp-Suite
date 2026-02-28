@@ -8,13 +8,15 @@
 
 <img width="655" height="426" alt="Image" src="https://github.com/user-attachments/assets/91b128a6-506c-4dcb-bdf4-029482266e31" />
 
+<img width="594" height="263" alt="Image" src="https://github.com/user-attachments/assets/ea51ba96-0f9b-4361-aa51-17a423c9fbf7" />
+
 # Étape 3 — Identifier l’adresse réseau de la machine hôte
 
 <img width="632" height="523" alt="Image" src="https://github.com/user-attachments/assets/4efe8a9c-9b3a-4241-8623-64a9e3e37013" />
 
 # Étape 4 — Configurer le proxy côté Android Emulator
 
-<img width="594" height="263" alt="Image" src="https://github.com/user-attachments/assets/ea51ba96-0f9b-4361-aa51-17a423c9fbf7" />
+
 
 
 
